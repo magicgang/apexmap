@@ -1,4 +1,3 @@
-<?php
 {
     "battle_royale": {
         "current": {
@@ -55,5 +54,3 @@
         }
     }
 }
-
-print(arenas):
